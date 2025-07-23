@@ -1,3 +1,7 @@
+## WARNING!!
+This is for product gallery not detailling!
+----------------Thank You------------------
+
 ## Rspeedy project
 
 This is a ReactLynx project bootstrapped with `create-rspeedy`.
